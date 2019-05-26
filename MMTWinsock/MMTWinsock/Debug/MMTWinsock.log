@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\tung\desktop\doanmmt\mmtwinsock\mmtwinsock\main.cpp(22): warning C4018: '>=': signed/unsigned mismatch
+c:\users\tung\desktop\doanmmt\mmtwinsock\mmtwinsock\main.cpp(44): warning C4018: '>=': signed/unsigned mismatch
+c:\users\tung\desktop\doanmmt\mmtwinsock\mmtwinsock\main.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\tung\desktop\doanmmt\mmtwinsock\mmtwinsock\main.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\tung\desktop\doanmmt\mmtwinsock\mmtwinsock\main.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\tung\desktop\doanmmt\mmtwinsock\mmtwinsock\main.cpp(180): warning C4018: '<': signed/unsigned mismatch
+  MMTWinsock.vcxproj -> C:\Users\Tung\Desktop\DoAnMMT\MMTWinsock\Debug\MMTWinsock.exe
